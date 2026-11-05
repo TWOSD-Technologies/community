@@ -16,8 +16,8 @@ This is the open space for people who build with **2SD Technologies** and **yOGI
 | Part | Article |
 |---|---|
 | 1. Don't build an agent. Redesign the work. (CEO) | [dev.to](https://dev.to/2sdtechnologiesdotcom/dont-build-an-agent-redesign-the-work-299p) |
-| 2. Before you build an agent, fix what it will inherit (COO) | dev.to, 5 Nov 2026 |
-| 3. Stop building agents. Build where they live. (CTO) | dev.to, 5 Nov 2026 |
+| 2. Before you build an agent, fix what it will inherit (COO) | [dev.to](https://dev.to/2sdtechnologiesdotcom/before-you-build-an-agent-fix-what-it-will-inherit-2p68) |
+| 3. Stop building agents. Build where they live. (CTO) | [dev.to](https://dev.to/2sdtechnologiesdotcom/stop-building-agents-build-where-they-live-3nci) |
 
 ## Contributing
 
