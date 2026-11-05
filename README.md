@@ -4,6 +4,8 @@ This is the open space for people who build with **2SD Technologies** and **yOGI
 
 ## What happens here
 
+- **[Discord](https://discord.gg/z7BEMBZug)** is for live chat with the team and other builders.
+
 - **[Discussions](https://github.com/TWOSD-Technologies/community/discussions)** cover our articles, ideas and questions. Every leadership and engineering article we publish gets a thread here.
 - **Ideas** is where you suggest topics, tools or patterns you'd like us to write about or build.
 - **Show and tell** is for sharing what you've built with agents, private models or data platforms.
@@ -33,5 +35,6 @@ We welcome contributors: engineers, data scientists, architects and writers.
 - X: [@2SDTechnologies](https://x.com/2SDTechnologies)
 - dev.to: [2SD Technologies](https://dev.to/2sdtechnologiesdotcom)
 - GitHub: [TWOSD-Technologies](https://github.com/TWOSD-Technologies)
+- Discord: [2SD Technologies Community](https://discord.gg/z7BEMBZug)
 
 Contact: info@2sdtechnologies.com
